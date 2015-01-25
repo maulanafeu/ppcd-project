@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1421669060 source:e:\college students\pengantar pengolahan citra digital\ocr-master\ocr.cpp
+	<vector>
+	"OCR.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1418106814 e:\college students\pengantar pengolahan citra digital\ocr-master\ocr.h
+	"opencv/cv.h"
+	"opencv/highgui.h"
+	"ml.h"
+	<stdio.h>
+	<ctype.h>
+	<fstream>
+	"opencv2/imgproc/imgproc.hpp"
+
+1418106786 e:\college students\pengantar pengolahan citra digital\ocr-master\ml.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/ml/ml.hpp"
+
+1421669032 source:e:\college students\pengantar pengolahan citra digital\ocr-master\main.cpp
+	"opencv/cv.h"
+	"opencv/highgui.h"
+	<iostream>
+	"OCR.h"
+
+1421669032 source:e:\coder\c++\expired date detection\main.cpp
+	"opencv/cv.h"
+	"opencv/highgui.h"
+	<iostream>
+	"OCR.h"
+
+1418106814 e:\coder\c++\expired date detection\ocr.h
+	"opencv/cv.h"
+	"opencv/highgui.h"
+	"ml.h"
+	<stdio.h>
+	<ctype.h>
+	<fstream>
+	"opencv2/imgproc/imgproc.hpp"
+
+1418106786 e:\coder\c++\expired date detection\ml.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/ml/ml.hpp"
+
+1421669060 source:e:\coder\c++\expired date detection\ocr.cpp
+	<vector>
+	"OCR.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
